@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "testing-mooc",
+                "projectName": "testing-mooc",
+                "workingDirectory": "/Users/arnoud/Desktop/SW Testing/mooc-software-testing",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "testing-mooc",
+                "projectName": "testing-mooc",
+                "workingDirectory": "/Users/arnoud/Desktop/SW Testing/mooc-software-testing",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
